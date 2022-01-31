@@ -1,6 +1,6 @@
-# Bored, Games? 
+# bThere
 
-Bored, games? is a social app for crating and coordinating board game events with peers. Users can create board game events by entering the name of the game they would like to play and their event's details, and their post will be auto-populated with the game's image and some key info. Other users can then comment on the event. 
+bThere is a social app for crating and coordinating board game events with peers. Users can create board game events by entering the name of the game they would like to play and their event's details, and their post will be auto-populated with the game's image and some key info. Other users can then comment on the event. 
 
 ## Board Game Atlas API
 This app finds game data through use of the Board Game Atlas API, a free API provided by one of the most complete sources for information about board games on the internet. Documentation can be found here (it's good)
